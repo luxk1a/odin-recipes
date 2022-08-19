@@ -1,0 +1,25 @@
+* {
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color:blue
+    
+}
+li,
+h1 {
+    background-color: antiquewhite;
+}
+
+body {
+    background-color: beige;
+}
+
+.header {
+    text-align: center;
+}
+
+ ol li {
+    color: blueviolet;
+}
